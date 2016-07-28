@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include kanban *.css
+recursive-include kanban *.csv
+recursive-include kanban *.html
+recursive-include kanban *.ico
+recursive-include kanban *.js
+recursive-include kanban *.json
+recursive-include kanban *.md
+recursive-include kanban *.png
+recursive-include kanban *.py
+recursive-include kanban *.svg
+recursive-include kanban *.txt
+recursive-exclude kanban *.pyc

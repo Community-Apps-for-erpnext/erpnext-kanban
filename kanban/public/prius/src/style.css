@@ -1,0 +1,165 @@
+/* ++++++++++++++++++ STATUSOK ++++++++++++++++++ */
+.panel-statusOK {
+  border-color: #52be80;
+}
+.panel-statusOK > .panel-heading {
+  background-color: #52be80;
+  color: #ffffff;
+}
+.panel-statusOK > .panel-body {
+  background-color: rgba(39, 174, 96, .05);
+  color: #27ae60;
+}
+.modal-statusOK > .modal-content {
+  border-color: rgba(39, 174, 96, .3);
+}
+.modal-statusOK > .modal-content > .modal-header {
+  background-color: rgba(39, 174, 96, .2);
+}
+.modal-statusOK > .modal-content > .modal-body
+                > .panel > .panel-heading {
+  background-color: rgba(39, 174, 96, .2);
+}
+/* ++++++++++++++++++ PASTDUECALL ++++++++++++++++++ */
+.panel-pastDueCall {
+  border-color: #D04333;
+}
+.panel-pastDueCall > .panel-heading {
+  background-color: #D04333;
+  color: #ffffff;
+}
+.panel-pastDueCall > .panel-body {
+  background-color: rgba(205, 97, 85, .05);
+  color: #D04333;
+}
+.modal-pastDueCall > .modal-content {
+  border-color: rgba(205, 97, 85, .3);
+}
+.modal-pastDueCall > .modal-content > .modal-header {
+  background-color: rgba(205, 97, 85, .2);
+}
+.modal-pastDueCall > .modal-content > .modal-body
+                   > .panel > .panel-heading {
+  background-color: rgba(205, 97, 85, .2);
+}
+/* ++++++++++++++++++ IMMINENTCONTACT ++++++++++++++++++ */
+.panel-imminentContact {
+  border-color: #F39C12;
+}
+.panel-imminentContact > .panel-heading {
+  background-color: #F39C12;
+  color: #ffffff;
+}
+.panel-imminentContact > .panel-body {
+  background-color: rgba(243, 156, 18, .05);
+  color: #F39C12;
+}
+.modal-imminentContact > .modal-content {
+  border-color: rgba(243, 156, 18, .2);
+}
+.modal-imminentContact > .modal-content > .modal-header {
+  background-color: rgba(243, 156, 18, .2);
+}
+.modal-imminentContact > .modal-content > .modal-body
+                       > .panel > .panel-heading {
+  background-color: rgba(243, 156, 18, .2);
+}
+/* ++++++++++++++++++ IMMINENTTASK ++++++++++++++++++ */
+.panel-imminentTask {
+  border-color: #5dade2;
+}
+.panel-imminentTask > .panel-heading {
+  background-color: #5dade2;
+  color: #ffffff;
+}
+.panel-imminentTask > .panel-body {
+  background-color: rgba(93, 173, 226, .05);
+  color: #5dade2;
+}
+.modal-imminentTask > .modal-content {
+  border-color: rgba(93, 173, 226, .2);
+}
+.modal-imminentTask > .modal-content > .modal-header {
+  background-color: rgba(93, 173, 226, .2);
+}
+.modal-imminentTask > .modal-content > .modal-body
+                    > .panel > .panel-heading {
+  background-color: rgba(93, 173, 226, .2);
+}
+/* ++++++++++++++++++ MISSINGDATA ++++++++++++++++++ */
+.panel-missingData {
+  border-color: #AF83C1;
+}
+.panel-missingData > .panel-heading {
+  background-color: #AF83C1;
+  color: #ffffff;
+}
+.panel-missingData > .panel-body {
+  background-color: rgba(175, 131, 193, .05);
+  color: #AF83C1;
+}
+.modal-missingData > .modal-content {
+  border-color: rgba(175, 131, 193, .2);
+}
+.modal-missingData > .modal-content > .modal-header {
+  background-color: rgba(175, 131, 193, .2);
+}
+.modal-missingData > .modal-content > .modal-body
+                   > .panel > .panel-heading {
+  background-color: rgba(175, 131, 193, .2);
+}
+/* ++++++++++++++++++ STALE ++++++++++++++++++ */
+.panel-stale {
+  border-color: #6F87A0;
+}
+.panel-stale > .panel-heading {
+  background-color: #6F87A0;
+  color: #ffffff;
+}
+.panel-stale > .panel-body {
+  background-color: rgba(44, 62, 80, .05);
+  color: #6F87A0;
+}
+.modal-stale > .modal-content {
+  border-color: rgba(44, 62, 80, .2);
+}
+.modal-stale > .modal-content > .modal-header {
+  background-color: rgba(44, 62, 80, .2);
+}
+.modal-stale > .modal-content > .modal-body
+             > .panel > .panel-heading {
+  background-color: rgba(44, 62, 80, .2);
+}
+/*
+::Option 3::  << MANDA
+#27ae60 - statusOK - 39, 174, 96
+#cd6155 - pastDueCall - 205, 97, 85
+#f4d03f - imminentContact - 244, 208, 63
+#5dade2 - immenentTask - 93, 173, 226
+#a569bd - missingData - 165, 105, 189
+#2c3e50 - stale - 44, 62, 80
+
+::Option 1::
+#52be80 - statusOK - 82, 190, 128
+#cd6155 - pastDueCall - 205, 97, 85
+#eb984e - immenentContact - 235, 152, 78
+#f4d03f - immenentTask - 244, 208, 63
+#5499c7 - missingData - 84, 153, 199
+#aab7b8 - stale - 170, 183, 184
+
+::Option 2::
+#2ecc71 - statusOK
+#c0392b - pastDueCall
+#f39c12 - imminentContact
+#5499c7 - immenentTask
+#34495e - missingData
+#aab7b8 - stale
+
+::Option 4::
+#85c1e9 - statusOK
+#d98880 - pastDueCall
+#f8c471 - imminentContact
+#e59866 - immenentTask
+#c39bd3 - missingData
+#cacfd2 - stale
+*/

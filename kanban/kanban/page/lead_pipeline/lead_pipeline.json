@@ -1,0 +1,22 @@
+{
+ "content": null, 
+ "creation": "2016-05-12 11:33:34.773246", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2016-05-23 08:55:45.907740", 
+ "modified_by": "Administrator", 
+ "module": "Kanban", 
+ "name": "Lead Pipeline", 
+ "owner": "Administrator", 
+ "page_name": "CRM Board", 
+ "roles": [
+  {
+   "role": "Sales User"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "Lead Pipeline"
+}

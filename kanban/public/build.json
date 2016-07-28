@@ -1,0 +1,5 @@
+{
+	"js/kanban.js": [
+    "public/prius/dist/bundle.js"
+  ]
+}
