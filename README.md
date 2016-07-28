@@ -5,7 +5,7 @@ way.
 
 ### Installation
 In frappe-bench folder, run:
-`bench get-app kanban https://github.com/aruizramon/erpnext_kanban.git`
+`bench get-app kanban https://github.com/aruizramon/erpnext-kanban.git`
 
 `bench install-app kanban`
 
