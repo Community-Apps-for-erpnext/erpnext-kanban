@@ -70,11 +70,11 @@ app_include_js = "/assets/kanban/prius/dist/bundle.js"
 # ---------------
 # Hook on document methods and events
 
-doc_events = {
-    "*": {
- 		"on_update": "kanban.kanban.board_methods.update_card"
-	}
-}
+# doc_events = {
+#    "*": {
+# 		"on_update": "kanban.kanban.board_methods.update_card"
+# 	}
+# }
 
 # Scheduled Tasks
 # ---------------
