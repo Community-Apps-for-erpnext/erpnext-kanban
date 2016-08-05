@@ -3,6 +3,10 @@
 Modular Kanban views for Frappe Framework. Built to integrate in a generic
 way.
 
+Create `Boards` (similar to Trello or WeKan) and add any ERPNext Document to it.
+All Documents in a Board can be moved around the (to be defined) colums
+A simple example for such would be Scrum-like `due` > `work in progress` > `done`
+
 ### Installation
 In frappe-bench folder, run:
 `bench get-app kanban https://github.com/aruizramon/erpnext-kanban.git`
